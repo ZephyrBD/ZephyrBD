@@ -2,9 +2,7 @@
 
 > **WE DO THIS,FOR TECHNOLOGY.🫠**
 
----
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ZephyrBD/blog-comment/refs/heads/main/Rainbow.gif" />
 
 ### I'm ZephyrBD！
 
