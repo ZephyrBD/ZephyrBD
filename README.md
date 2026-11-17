@@ -10,7 +10,6 @@
 - 🌱 Currently working in Chengdu, China.
 
 - ⭐ You may like [web-xcpc-tool](https://github.com/ZephyrBD/web-xcpc-tool) 、
-
   [OpenResolver](https://github.com/ZephyrBD/OpenResolver) 、or [BetterDropItemMod](https://github.com/ZephyrBD/BetterDropItemMod)
 - ⚡ Fun fact: Data Analysis📊
 
