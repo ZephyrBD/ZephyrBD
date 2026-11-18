@@ -2,7 +2,7 @@
 
 > **WE DO THIS,FOR TECHNOLOGY.🫠**
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ZephyrBD/blog-comment/refs/heads/main/Rainbow.gif" width="380" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ZephyrBD/blog-comment/refs/heads/main/Rainbow.gif" width="340" />
 
 ### I'm ZephyrBD！
 
