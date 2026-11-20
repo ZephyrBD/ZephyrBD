@@ -37,6 +37,7 @@
 - [web-xcpc-tool：设想通过Web完成XCPC赛时需要的工具](https://github.com/ZephyrBD/web-xcpc-tool)
 - [OpenResolver：一个整合的AI网关](https://github.com/ZephyrBD/OpenResolver)
 - [PTA-to-ICPC：PTA API到ContestAPI的转换工具](https://github.com/ZephyrBD/PTA-to-ICPC)
+- [Danmudeck：在直播时允许通过弹幕排队的小工具](https://github.com/ZephyrBD/Danmudeck)
 
 ### 关于我
 
